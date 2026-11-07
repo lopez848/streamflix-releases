@@ -1,6 +1,11 @@
 {
   "version": 1,
   "providers": {
-    "14": { "status": "up" }
+    "10": {
+      "status": "down"
+    },
+    "14": {
+      "status": "up"
+    }
   }
 }
